@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+div {
+  background-color: red;
+}
+
+article a {
+  background-color: gray;
+}
+#details {
+  text-align: center;
+}
+#featured-property {
+  text-align: center;
+}
+header {
+  text-align: center;
+}
+.container {
+  float: left;
+  width: 25%;
+}
